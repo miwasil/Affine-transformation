@@ -16,7 +16,8 @@ Cube before and after rotation around the center by 45 degrees:
 ![image](https://user-images.githubusercontent.com/115273240/231432459-81970623-bcf4-4cf3-8454-10921eaac859.png)
 
 
-perlin noise before and after horizontal reflection:
+
+Perlin noise before and after horizontal reflection:
 
 ![image](https://user-images.githubusercontent.com/115273240/231432503-645b1d5f-4e49-4138-9a0b-ef930e31de7c.png)
 
