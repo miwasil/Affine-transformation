@@ -1,6 +1,6 @@
 # Affine-transformations
 
-App written in Python (NumPy, Matplotlib, Math) for Numerical-Methods course at AGH UST, ICT - 3rd semester.
+App written in a team in Python (NumPy, Matplotlib, Math) for Numerical-Methods course at AGH UST, ICT - 3rd semester.
 
 ## About
 
