@@ -2,10 +2,10 @@
 
 App written in a team in Python (NumPy, Matplotlib, Math) for Numerical-Methods course at AGH UST, ICT - 3rd semester.
 
-Authors:
-[Michał Wasilewski](https://github.com/miwasil)
-[Jakub Kowal](https://github.com/jd-kowal)
-[Dominik Nogaj](https://github.com/dnogaj)
+Authors: <br />
+[Michał Wasilewski](https://github.com/miwasil) <br />
+[Jakub Kowal](https://github.com/jd-kowal) <br />
+[Dominik Nogaj](https://github.com/dnogaj) <br />
 [Karol Sikora](https://github.com/kasikora)
 
 ## About
